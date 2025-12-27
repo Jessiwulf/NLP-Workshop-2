@@ -1,3 +1,6 @@
+# Processed file review (that can't be upload because it's too large!)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/35851c3e-2ebd-441e-8549-c5992029406b" />
+
 # Regular Expressions (Regex) Explanation
 
 ## 1. HTML Tag Removal
